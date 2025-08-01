@@ -2,7 +2,7 @@
 
 The glowiest macropad
 
-![alt text](hackpad.PNG)
+![alt text](pictures/hackpad.PNG)
 
 This macropad was designed as a sort of sidestep from a Hackpad. I didn't want to make another PCB as I just don't want to deal with the lead time, plus I think hand-wiring a keyboard would be fun, and a macropad is really just a small keyboard.
 
