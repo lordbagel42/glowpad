@@ -8,6 +8,7 @@ created_at: "2025-07-31"
 ## total time spent: like 12 hours this thing was horrible to make.
 
 # the glowie thing
+### date: june 26
 
 I made this thing a while ago and I don't remember most of it, nor do I have photos of any of it anymore to be honest.
 
@@ -52,3 +53,5 @@ Much better. I can actually fit an LED in here, like this:
 This leads to the final, lovely finished product after a painstaking and horrible 12 hours trying to make it. When I try and look back to remember what I did, all I remember is being mad at myself for not planning for the LED thickness. Oops.
 
 This was honestly a really informative thing. It's the first time I used Delete Part, something I now make use of often in combination with the derived tool.
+
+### date: june 27th, 4am.
