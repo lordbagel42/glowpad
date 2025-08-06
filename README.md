@@ -23,6 +23,6 @@ I don't know if I can actually call this a hackpad because its using acrylic sid
 
 # wiring
 
-![alt text](chrome_AgvCGvt9Wk.png)
+![alt text](https://github.com/user-attachments/assets/3715c39d-45d1-4c33-aac3-046417511000)
 
 The wiring is just a standard matrix, it'll end up looking something like this.
