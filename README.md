@@ -14,12 +14,14 @@ I don't know if I can actually call this a hackpad because its using acrylic sid
 
 | PART                          | UNIT COST | QUANTITY | ROW COST | NEED BOUGHT | SUPPLIER                                    |
 | ----------------------------- | --------- | -------- | -------- | ----------- | ------------------------------------------- |
-| Choc Keyswitch                | $5.50     | 1        | $5.50    | FALSE       | [typeractive.xyz](https://typeractive.xyz/) |
+| Choc Keyswitch                | $5.50     | 1        | $5.50    | TRUE        | [typeractive.xyz](https://typeractive.xyz/) |
 | MBK Choc Keycap               | $3.50     | 1        | $3.50    | FALSE       | [typeractive.xyz](https://typeractive.xyz/) |
 | THT Diodes                    | $0.98     | 10       | $9.80    | FALSE       | aliexpress                                  |
 | Acrylic, 75mmx70mm            | $0.00     | 1        | $0.00    | FALSE       | [typeractive.xyz](https://typeractive.xyz/) |
 | 1m 144led/m WS2812B LED Strip | $13.63    | 1        | $13.63   | TRUE        | [typeractive.xyz](https://typeractive.xyz/) |
-| Promicro nrf52840             | $3.00     | 1        | $3.00    | FALSE       | aliexpress                                  |
+| Promicro nrf52840             | $3.00     | 1        | $3.00    | TRUE        | aliexpress                                  |
+
+total needed: $35.43
 
 # wiring
 
