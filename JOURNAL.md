@@ -9,6 +9,8 @@ created_at: "2025-07-31"
 
 # the glowie thing
 
+### date: june 26
+
 I made this thing a while ago and I don't remember most of it, nor do I have photos of any of it anymore to be honest.
 
 This macropad is meant to just be simple and fun to put together, its part of why I've set it up to be handwired. I also wanted it to be really, really small. Since I'm using a nice!nano clone I can't really use a PCB and make it this size, there isn't anywhere to put it. This is my best attempt of finding a location and even this just a little bit too sketchy for me to try.
