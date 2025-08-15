@@ -52,3 +52,19 @@ Much better. I can actually fit an LED in here, like this:
 This leads to the final, lovely finished product after a painstaking and horrible 12 hours trying to make it. When I try and look back to remember what I did, all I remember is being mad at myself for not planning for the LED thickness. Oops.
 
 This was honestly a really informative thing. It's the first time I used Delete Part, something I now make use of often in combination with the derived tool.
+
+# build time!!! :3
+
+Build went honestly pretty good. I had to reprint all the parts 4 times because my printer was dying but I ended up just using my schools printer and it went great. The acrylic pieces were also perfectly cut the first time I tried, totally guessing the settings. I'm very proud of that lmao.
+
+I also printed out some little triangles to lightly glue to the acrylic pieces and make things square and that.... was not a good idea. Some superglue leaked out of one of the places it was supposed to go and mixed with the glue stick I had in and just welded the triangle to one of the acrylic pieces. When I went to remove the triangle it just snapped the acrylic sadly.
+
+Soldering it was a lot of fun. I just kinda sent it and did whatever. I didn't use diodes because I can't find my bag of them and I don't think I need NKRO on a macropad lol.
+
+![alt text](pictures/soldering.jpg)
+
+Is it good soldering? Nope. Does it work? Yup.
+
+It only took about an hour to put this together. The ZMK config is nothing special, the example snippets are mostly for a 3x3 macropad so it made this really easy. I'm going to add a battery to this once I find my bag of little switches and cut a hole for one in.
+
+I'll update this once I have the LED's installed, Amazon sadly delayed it so it arrives past the deadline. I think the acrylic is thin enough but I might have to redo it with clear acrylic, not sure yet.
